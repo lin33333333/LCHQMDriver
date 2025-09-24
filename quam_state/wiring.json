@@ -49,8 +49,10 @@
         }
     },
     "network": {
-        "host": "192.168.1.115",
-        "port": null,
-        "cluster_name": "Cluster_2"
+        "host": "10.21.30.201",
+        "port": 9511,
+        "cluster_name": "Cluster_1",
+        "octave_name": "oct1",
+        "octave_port": 9521
     }
 }
